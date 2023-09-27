@@ -1,21 +1,23 @@
 # Minimalist Portfolio
-Single page portfolio made with [Astro](https://astro.build/)
 
+Single page portfolio made with [Astro](https://astro.build/)
 
 ![Minimalist Portfolio](/images/Preview.png)
 
-## Install:
+## Install
 
 ```
 npm install
 ```
 
-## Run:
+## Run
+
 ```
 npm run dev
 ```
 
-## Project Struture
+## Project Structure
+
 ```
 ├── src/
 │   ├── components/
